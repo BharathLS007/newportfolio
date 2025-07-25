@@ -1,0 +1,14 @@
+:root{
+    --primary:black;
+    --secondary:white;
+    --line:rgb(247, 12, 51);
+    --third:blue;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
