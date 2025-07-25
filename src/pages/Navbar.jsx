@@ -5,7 +5,7 @@ function Navbar() {
   return (
     
         <div className="navbar">
-            <div className="logo">Front<span>developer</span></div>
+            <div className="logo">Front<span>Developer</span></div>
              <div className="nav">
               <ul>
                 <li><Link to='/'>Home</Link></li>
